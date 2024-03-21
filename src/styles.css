@@ -98,7 +98,7 @@ input[type="text"] {
 }
 
 .add-btn {
-  width ; 3rem;
+  width: 3rem;
   padding: .5rem;
   cursor: pointer;
   background: rgb(215, 67, 121);
