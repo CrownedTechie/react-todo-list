@@ -1,6 +1,6 @@
 # react-todo-list
 
-Learnable's task for week 11. I am to demonstrate my understanding on DOM manipulation, event handling, and user input validation.
+Learnable's task for week 11. I am to demonstrate my understanding on React JS basics.
 
 ## Table of contents
 
